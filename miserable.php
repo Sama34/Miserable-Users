@@ -39,12 +39,6 @@ function miserable_deactivate()
 	$miserable->deactivate();
 }
 
-function dd($var)
-{
-	die(var_dump($var));
-}
-
-
 /**
  *	Miserable User Class
  *
